@@ -1,19 +1,19 @@
 # TVCSimulation
 
 
-# MATLAB Simulation: Trust Vector Control for Model Rocket
+# MATLAB Simulation: Thrust Vector Control for Model Rocket
 
 ## Overview
 
-This MATLAB project focuses on simulating the trajectory of a model rocket equipped with trust vector control. The simulation is designed to showcase the dynamics and control mechanisms involved in guiding the rocket during flight. The project is currently in progress, with a basic trajectory simulation already implemented using MATLAB and Simulink.
+This MATLAB project focuses on simulating the trajectory of a model rocket equipped with thrust vector control. The simulation is designed to showcase the dynamics and control mechanisms involved in guiding the rocket during flight. The project is currently in progress, with a basic trajectory simulation already implemented using MATLAB and Simulink.
 
 ## Features
 
 - **Trajectory Simulation:** A basic simulation of the model rocket's trajectory, accounting for gravitational forces, aerodynamics, and initial launch conditions.
 
-- **Trust Vector Control:** Integration of trust vector control principles to dynamically adjust the rocket's orientation during flight.
+- **thrust Vector Control:** Integration of thrust vector control principles to dynamically adjust the rocket's orientation during flight.
 
-- **MATLAB & Simulink:** The simulation is implemented using MATLAB and Simulink for a comprehensive analysis of the rocket's behavior.
+- **MATLAB & Simulink:** The simulation is implemented using MATLAB and Simulink for a comprehensive analysis of the rocket's behaviour.
 
 ## Project Structure
 
@@ -25,7 +25,7 @@ This MATLAB project focuses on simulating the trajectory of a model rocket equip
 1. Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/iamnarendrans/model-rocket-simulation.git
+git clone https://github.com/iamnarendrans/TVCSimulation.git
 ```
 
 2. Open `MMOICalculation.m` in MATLAB to run the simulation.
@@ -41,13 +41,13 @@ git clone https://github.com/iamnarendrans/model-rocket-simulation.git
 
 The project is currently on hold. Future enhancements include:
 
-- Fine-tuning trust vector control parameters.
+- Fine-tuning thrust vector control parameters.
 - Implementing a more detailed rocket model using Simscape Multibody.
 
 ## Contributions
 
-Contributions are welcome! If you have suggestions, improvements, or find any issues, please feel free to open an issue or create a pull request.
+Contributions are welcome! If you have suggestions, or improvements, or find any issues, please feel free to open an issue or create a pull request.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU Public License](LICENSE).
