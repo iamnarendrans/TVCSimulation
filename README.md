@@ -50,4 +50,4 @@ Contributions are welcome! If you have suggestions, or improvements, or find any
 
 ## License
 
-This project is licensed under the [GNU Public License](LICENSE).
+This project is licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE).
